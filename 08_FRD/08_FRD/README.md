@@ -1,11 +1,11 @@
-# User Stories
+# Functional Requirements Document
 
-This folder will contain Agile user stories and acceptance criteria.
+This folder will contain the Functional Requirements Document for the proposed solution.
 
 ## Planned Deliverables
 
-- Customer user stories
-- Loan officer user stories
-- Manager user stories
-- Compliance user stories
-- Given/When/Then acceptance criteria
+- Functional requirements
+- System behavior
+- Validation rules
+- Reporting requirements
+- Notification requirements
